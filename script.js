@@ -208,7 +208,7 @@ const lessonsData = {
 
     'copywriting': {
         title: "2.3 Solving iOS 14: Conversions API (CAPI)",
-        video: "",
+        video: "https://www.youtube.com/embed/7DzaSOj7o4c",
         image: "images/meta_marketing_hero_1771675075538.png",
         explanation: `
             <p>Apple's iOS 14 update in 2021 was a watershed moment for digital advertising. It allowed iPhone users to opt out of cross-app tracking with a single tap. Almost overnight, advertisers lost visibility into a huge portion of their sales data, causing reported ROAS to drop significantly.</p>
@@ -237,7 +237,7 @@ const lessonsData = {
 
     'offers': {
         title: "2.4 Domain Verification & WordPress Tracking",
-        video: "",
+        video: "https://www.youtube.com/embed/ae3Ctrswkdk",
         image: "images/meta_learning_hero_webp_1771675113408.png",
         explanation: `
             <p>Domain verification is a security and trust protocol that proves to Meta you are the legitimate owner of the website you are advertising. After iOS 14, Meta made domain verification mandatory for all advertisers who want to properly configure conversion events.</p>
@@ -280,7 +280,7 @@ const lessonsData = {
 
     'testing': {
         title: "2.5 Advanced Tracking & Verification",
-        video: "",
+        video: "https://www.youtube.com/embed/CCsty8R0UaA",
         image: "images/hero_ecommerce_marketing_1771675155238.png",
         explanation: `
             <p>Setting up tracking is only half the job. Verifying it works and using advanced tools to maximize its accuracy is what separates professional media buyers from amateurs.</p>
@@ -317,7 +317,7 @@ const lessonsData = {
     // ════════════════════════════════════════════════════════
     'scaling-v': {
         title: "3.1 The Anatomy of a High-Converting Video Ad",
-        video: "",
+        video: "https://www.youtube.com/embed/xYRleHrKwwU",
         image: "images/hero_ecommerce_learning_1771675133364.png",
         explanation: `
             <p>In modern Meta marketing, <strong>"Creative is the Targeting."</strong> Because Meta's AI is so sophisticated, it uses the actual content of your ad — the visuals, the words, the emotions — to identify and find the most relevant audience for your product. Your targeting options matter less and less. Your creative matters more and more. Success depends roughly <strong>60–70% on your creative</strong>.</p>
@@ -685,7 +685,7 @@ const lessonsData = {
 
     'module5-2': {
         title: "5.2 Retention: Maximizing Customer Lifetime Value",
-        video: "www.youtube.com/embed/Gmc8UxiwShA",
+        video: "https://www.youtube.com/embed/Gmc8UxiwShA",
         image: "hero_meta_marketing_1771675178719.png",
         explanation: `
             <p>Acquisition is expensive. Retention is profitable. Research consistently shows that selling to an existing customer costs <strong>5–7x less</strong> than acquiring a new one, and existing customers have a <strong>60–70% probability</strong> of buying again versus 5–20% for new prospects. Retention is where the real profit lives in e-commerce.</p>
